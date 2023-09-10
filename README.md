@@ -1,6 +1,6 @@
 # miniproject_1
-고용노동부 & KFQ한국품질재단 2023.08 ~ 2023.08
-[Smart PC Factory 프로그램]
+고용노동부 & KFQ한국품질재단 2023.08.07 ~ 2023.08.11<br>
+[Smart PC Factory 프로그램]<br>
 프로그램 주제
 -C# Oracle DB를 활용한 PC공정과정 시각화, 분석및 통계
 
